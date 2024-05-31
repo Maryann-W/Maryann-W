@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Maryann!
 
-<!--
-**Maryann-W/Maryann-W** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Mobile app developer, web developer and software developer sharing about my journey and learnings in tech.<br/>
+🏫 Studied Applied Computer Science at Kisii University, Kenya. <br/>
+📱 I’m currently working on developing innovative mobile apps. <br/>
+💬 Ask me about software development and best coding practices. <br/>
+📫 How to reach me: [wanjirumaryann86@gmail.com](mailto:wanjirumaryann86@gmail.com) <br/>
+📞 Phone/WhatsApp: +254791020406 <br/>
+😄 Pronouns: She/Her <br/>
+⚡ Fun fact: I love exploring new technologies and pushing the boundaries of what’s possible. <br/>
 
-Here are some ideas to get you started:
+<!--Github starts from https://github.com/anuraghazra/github-readme-stats -->
+[![Maryann's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maryann-W&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
