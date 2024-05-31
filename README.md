@@ -1,7 +1,7 @@
 ### Hi, I'm Maryann!
 
 💻 Mobile app developer, web developer and software developer sharing about my journey and learnings in tech.<br/>
-🏫 Studied Applied Computer Science at Kisii University, Kenya. <br/>
+🏫 Studied Applied Computer Science at [Kisii University](https://kisiiuniversity.ac.ke/), Kenya. <br/>
 📱 I’m currently working on developing innovative mobile apps. <br/>
 💬 Ask me about software development and best coding practices. <br/>
 📫 How to reach me: [wanjirumaryann86@gmail.com](mailto:wanjirumaryann86@gmail.com) <br/>
