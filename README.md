@@ -15,16 +15,12 @@ A Dev/QA professional with a passion for building, testing, and improving softwa
 
 
 ### GitHub Stats:
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Maryann-W&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Maryann's GitHub stats" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maryann-W&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="47%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maryann-W&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="350" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maryann-W&theme=dark&hide_border=false" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryann-W&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="350" />
+</p>
 
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryann-W&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="50%" />
-
-</div>
 
 
 
